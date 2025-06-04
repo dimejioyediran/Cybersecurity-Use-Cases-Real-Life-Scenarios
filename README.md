@@ -2,7 +2,7 @@
 
 Welcome to my cybersecurity case study collection! This repo contains short, beginner-friendly breakdowns of real-world and fictional cybersecurity incidents. Each scenario highlights common mistakes, how the issue could have been avoided, and the lessons we can learn from them.
 
-This project is part of my learning journey as an aspiring cybersecurity analyst. It helps me understand how security principles apply in real-world situations and prepares me for hands-on decision-making.
+This project is part of my learning journey as a cybersecurity analyst. It helps me understand how security principles apply in real-world situations and prepares me for hands-on decision-making.
 
 # 📁 What You'll Find
 
